@@ -90,13 +90,13 @@ I struggled to position the different images correctly, but this gave me the opp
 
 In Firefox (and other browsers as well I asume) a scrollbar is shown when opening the accordion. This moves the whole container a few pixels to the left side which is not ideal. I fixed it with Chrome at least.
 
-I had a weird issue with my image-box (my image) and content-box (the faq) and it still confuses me. I moved my content a bit upwards (margin-top: -X) and then it was obviously overlapped by my image-box because I could not click on my first question anymore. I thought a z-index would help me out but it actually did not. There must be something else going on or maybe I am just too blind and I do not see the real issue which causes this behavior.🤨 So I was sort of forced to set a hight on my image-box. That's probably not too bad but I thought I could solve it without setting a height.
+I had a weird issue with my image-box (my image) and content-box (the FAQ) and it still confuses me. I moved my content a bit upwards (margin-top: -X) and then it was obviously overlapped by my image-box because I could not click on my first question anymore. I thought a z-index would help me out but it actually did not. There must be something else going on or maybe I am just too blind and I do not see the real issue which causes this behavior.🤨 So I was sort of forced to set a hight on my image-box. That's probably not too bad but I thought I could solve it without setting a height.
 
 ### Useful resources
 
-- [CSS-Tricks: Two Issues Styling the Details Element and How to Solve Them](https://css-tricks.com/two-issues-styling-the-details-element-and-how-to-solve-them/) - This is an amazing article which helped me ...
-- [CSS-Tricks: Quick Reminder that Details/Summary is the Easiest Way Ever to Make an Accordion](https://css-tricks.com/quick-reminder-that-details-summary-is-the-easiest-way-ever-to-make-an-accordion/) - This ...
-- [Stack Overflow: How To Add CSS3 Transition With HTML5 details/summary tag reveal?](https://stackoverflow.com/questions/38213329/how-to-add-css3-transition-with-html5-details-summary-tag-reveal) - This helped me ...
+- [CSS-Tricks: Two Issues Styling the Details Element and How to Solve Them](https://css-tricks.com/two-issues-styling-the-details-element-and-how-to-solve-them/) - This is a great article which helped me using the HTML-elements details and summary.
+- [CSS-Tricks: Quick Reminder that Details/Summary is the Easiest Way Ever to Make an Accordion](https://css-tricks.com/quick-reminder-that-details-summary-is-the-easiest-way-ever-to-make-an-accordion/) - This helped me with using custom arrows instead of the default arrows.
+- [Stack Overflow: How To Add CSS3 Transition With HTML5 details/summary tag reveal?](https://stackoverflow.com/questions/38213329/how-to-add-css3-transition-with-html5-details-summary-tag-reveal) - This helped me with the animation when opening a question.
 
 ## Author
 
