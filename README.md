@@ -48,7 +48,7 @@ Users should be able to:
 
 ### What I learned
 
-I have learned that it is possible to build a faq accordion without JavaScript with the HTML-elements details and summary (sadly not supported in IE... 😶):
+I have learned that it is possible to build a FAQ accordion without JavaScript with the HTML-elements details and summary (sadly not supported in IE... 😶):
 
 ```html
 <details>
