@@ -124,6 +124,8 @@ body {
   -webkit-transform: translate(-5.5%, -65%);
   -ms-transform: translate(-5.5%, -65%);
   transform: translate(-5.5%, -65%);
+  z-index: 1;
+  position: relative;
 }
 @media only screen and (min-width: 59.375em) {
   .faq__image {
