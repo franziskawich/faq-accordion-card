@@ -229,6 +229,12 @@ body {
 .faq-item__heading {
   color: var(--dark-grey);
   font-weight: 400;
+  font-size: 1.4rem;
+}
+@media only screen and (min-width: 59.375em) {
+.faq-item__heading {
+  font-size: 1.75rem;
+  }
 }
 .faq-item__heading:hover {
   color: var(--red);
